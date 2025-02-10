@@ -22,7 +22,7 @@ We trained multiple machine learning models to predict customer bookings:
 ### 📊 Model Performance
 | Model | Accuracy |
 |--------|----------|
-| Logistic Regression | ~85% |
+| Logistic Regression | **64%** |
 | Random Forest | **87%** |
 
 ## 📈 Key Takeaways
@@ -31,8 +31,7 @@ We trained multiple machine learning models to predict customer bookings:
 ✅ **Random Forest outperformed Logistic Regression** with an accuracy of **87%**.  
 
 ## 📝 Next Steps
-🔹 Fine-tune hyperparameters for further improvements.  
-🔹 Experiment with other classification models like XGBoost.  
+🔹 Fine-tune hyperparameters for further improvements.    
 🔹 Feature selection to enhance model interpretability.  
 
 ---
